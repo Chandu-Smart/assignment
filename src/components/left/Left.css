@@ -1,0 +1,30 @@
+.left-content {
+    width: 100%;
+    height: 100%;
+    padding: 2rem 4rem;
+}
+
+.left-content p {
+    font-weight: 600;
+    color: white;
+    font-size: 48px;
+}
+
+.left-content ul {
+    display: grid;
+    gap: 2rem;
+    margin: 2rem 0; 
+}
+
+.left-content ul li {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.left-content ul li img {
+    width: 30px;
+    height: 30px;
+    margin-right: 2rem;
+}
+

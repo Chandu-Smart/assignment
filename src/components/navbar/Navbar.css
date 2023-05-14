@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    width: 100vw;
+    height: 72px;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.left,
+.right {
+    display: flex;
+    padding: 24px 80px;
+    gap: 4.5rem;
+}
+
+.right button {
+    color: white;
+    background-color: #0096FF;
+    padding: 0 20px;
+    border-radius: 1rem;
+    border: none;
+}
+

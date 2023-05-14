@@ -1,0 +1,16 @@
+.main-container {
+    width: 100vw;
+    height: calc(100vh - 72px);
+    display: flex;
+}
+
+.left-container {
+    width: 60vw;
+    height: 100%;
+
+}
+
+.right-container {
+    width: 40vw;
+    height: 100%;
+}
